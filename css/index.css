@@ -1,0 +1,54 @@
+body {
+    background-color: #EAf6f6;
+}
+
+h1 {
+    color: #66bfbf;
+
+}
+h1:hover{
+    color: gold;
+}
+
+h3 {
+    color: #66bfbf;
+}
+h3:hover{
+    color: gold;
+}
+
+img {
+    width: 100px;
+    border-radius: 100%;
+    background-color: white;
+
+}
+.profile{
+    padding-right: 20px;
+    
+}
+
+hr {
+    color: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+
+}
+
+hr:hover  {
+    border-color: gold;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: red;
+}
+
+a:hover {
+    color: gold;
+
+}
